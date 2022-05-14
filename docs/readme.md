@@ -5,7 +5,7 @@
     Now,it can only use string as the data.
 ```
 ## How to use
-~~~cpp
+```cpp
 #include<bits/stdc++.h>
 #include"cfastsql.h"            //include this
 using namespace std;
@@ -36,5 +36,5 @@ int main(){
 system("pause");
 return 0;
 }
-~~~
+```
 
